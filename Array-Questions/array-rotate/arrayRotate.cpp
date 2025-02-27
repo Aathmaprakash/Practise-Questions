@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Function to reverse a portion of the array
+
 void reverseArray(int arr[], int start, int end) {
     while (start < end) {
         swap(arr[start], arr[end]);
