@@ -18,7 +18,7 @@ int main() {
     }
 
     
-    cout << "Final string after removing duplicates: " << finall << endl;
+    cout << "Final string:" << finall << endl;
 
     return 0;
 }
