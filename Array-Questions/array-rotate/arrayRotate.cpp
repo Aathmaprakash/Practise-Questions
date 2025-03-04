@@ -17,7 +17,6 @@ int main() {
     int k = 3;
     int n = 6;
 
-   
     k = k % n;  
 
    
