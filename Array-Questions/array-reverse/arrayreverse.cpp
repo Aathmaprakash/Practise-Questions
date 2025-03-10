@@ -13,6 +13,7 @@ int main(){
        {
         reverse.push_back(arr[i]);
         }
+        
         for (int i = 0; i<reverse.size(); i++)
         {
             cout<<reverse[i]<<" ";

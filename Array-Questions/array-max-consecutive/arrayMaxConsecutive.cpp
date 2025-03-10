@@ -12,6 +12,7 @@ int main() {
             count++; 
             maxi = max(maxi, count);
         } else {
+            
             count = 0; 
         }
     }

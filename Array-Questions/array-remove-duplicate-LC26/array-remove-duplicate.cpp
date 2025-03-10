@@ -14,7 +14,7 @@ int main(){
         if(arr[start]!=arr[i]){
             start++;
             arr[start]=arr[i];
-           
+             
         }
        
       
