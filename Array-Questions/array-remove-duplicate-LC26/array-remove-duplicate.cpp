@@ -17,7 +17,7 @@ int main(){
              
         }
        
-      
+    
     }
     for(int i=0;i<=start;i++){
         cout<<arr[i]<<endl;
