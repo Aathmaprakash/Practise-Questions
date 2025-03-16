@@ -22,6 +22,10 @@ int main(){
         }
     }
 
-    cout<<maxi;
+    for(int i=0;i<size;i++){
+        cout<<newmap[i]<<endl;
+    }
+    cout<<maxi<<endl;
+
     return 0;
 }
