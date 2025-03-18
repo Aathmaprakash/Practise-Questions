@@ -17,7 +17,8 @@ int main() {
         }
     }
 
-    cout << "Max consecutive 1s: " << maxi << endl;
+
+    cout << "Max consecutive 1s :" << maxi << endl;
 
     return 0;
 }
