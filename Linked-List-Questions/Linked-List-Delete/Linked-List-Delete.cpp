@@ -46,7 +46,7 @@ class LinkedList{
             cout << temp->data << " -> ";
             temp = temp->next;
         }
-        cout << "NULL" << endl;
+        cout << "null" << endl;
         
     }
 
@@ -59,7 +59,9 @@ int main(){
     list.insert(40);
     list.insert(60);
     list.insert(30);
+    cout << "Linked List after insertions: ";
     list.display();
+    cout << "After deleting from beginning: ";
     list.deleteatbegining();
     list.display();
 
